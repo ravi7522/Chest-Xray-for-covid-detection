@@ -328,4 +328,4 @@ cython_debug/
 
 .sqlite
 
-./database
+dataset/
