@@ -329,3 +329,4 @@ cython_debug/
 .sqlite
 
 dataset/
+COVID-19_Radiography_Dataset/
